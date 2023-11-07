@@ -14,4 +14,4 @@
   Algumas matérias possuem mais de uma playlist como conteúdo, escolha a que preferir.
 
 # Grade
-  # [pendente]
+  [pendente]
