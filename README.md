@@ -11,6 +11,7 @@
 
 ## Sobre o conteúdo
   Quase todos os vídeos são disponibilizados por canais gringos *(en-us, English [United States])* de universidades, professores e/ou profissionais da área, se isso for um problema para você, veja isso como uma oportunidade de melhorar seu nível de inglês. Futuramente as playlists serão traduzidas pelos contribuidores deste repositório e disponilizadas aqui;
+  
   Algumas matérias possuem mais de uma playlist como conteúdo, escolha a que preferir.
 
 # Grade
