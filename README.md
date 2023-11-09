@@ -13,8 +13,8 @@
 
 ## Sobre a grade
   A estrutura da grade foi baseda nas seguintes abaixo, dando um foco maior nas matérias que envolvem conceitos da computação e programação do que nas da área da Matemática. A grade ficará hospedada em uma página Notion, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
-  #### Grades Utilizadas:
-    [pendente::link das grades utilizadas]
+    #### Grades Utilizadas:
+      [pendente::link das grades utilizadas]
 
 ## Sobre os períodos
   Os períodos na grade não têm uma duração predeterminada; a escolha do tempo para cada um fica ao seu critério e/ou suas necessidades. Recomendamos, se possível, priorizar seu entendimento sobre os assuntos em vez do tempo para finalizá-los.
@@ -26,3 +26,6 @@
   
 ## Sobre o conteúdo
   Quase todos os vídeos são disponibilizados por canais gringos *(en-us, English [United States])* de universidades, professores e/ou profissionais da área, se isso for um problema para você, veja isso como uma oportunidade de melhorar seu nível de inglês. Futuramente as playlists serão traduzidas pelos contribuidores deste repositório e disponilizadas aqui;
+
+## Contribuidores:
+    [pendente]
