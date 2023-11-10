@@ -1,6 +1,6 @@
-# Ciencia da Computacao-autodidata
+# Ciência da Computação autodidata
 
-#**AVISO**
+::AVISO::
   Repositório e Grade ainda em construção.
   
   Este repositório reúne várias playlists de palestras e aulas, organizadas por períodos e baseadas nas grades curriculares de cursos de Ciência da Computação de algumas universidades.
