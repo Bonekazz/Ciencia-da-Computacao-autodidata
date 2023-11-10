@@ -9,8 +9,8 @@
   - quem já sabe programar e quer entender o que acontece por trás dos panos;
   - quem quer começar na programação pelos fundamentos;
   - quem está na faculdade e quer algum conteúdo auxiliar;
+___
 
-  
 ## Grade:
     [pendente::link da grade]
 
