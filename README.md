@@ -22,16 +22,17 @@ ___
 #### Grades Utilizadas:
       [pendente::link das grades utilizadas]
 
-### Sobre os períodos
-<details>
-<summary>Os períodos na grade não têm uma duração predeterminada; a escolha do tempo para cada um fica ao seu critério e/ou suas necessidades. Recomendamos, se possível, priorizar seu entendimento sobre os assuntos em vez do tempo para finalizá-los.</summary>
-</details>
+___
 
+### Sobre os períodos
+  Os períodos na grade não têm uma duração predeterminada; a escolha do tempo para cada um fica ao seu critério e/ou suas necessidades. Recomendamos, se possível, priorizar seu entendimento sobre os assuntos em vez do tempo para finalizá-los.
+___
     
 ### Sobre as matérias
   Cada matéria terá sua descrição, requisitos, conteúdos e uma tag especificando se ela é opcional ou obrigatória. Algumas matérias possuem mais de uma playlist como conteúdo, cada uma com recomendações de qual escolher, a escolha fica ao seu critério.
-  
-  
+
+___
+
 ### Sobre o conteúdo
   Quase todos os vídeos são disponibilizados por canais gringos *(en-us, English [United States])* de universidades, professores e/ou profissionais da área, se isso for um problema para você, veja isso como uma oportunidade de melhorar seu nível de inglês. Futuramente as playlists serão traduzidas pelos contribuidores deste repositório e disponilizadas aqui;
 
