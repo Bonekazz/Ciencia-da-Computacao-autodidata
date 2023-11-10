@@ -17,7 +17,7 @@ ___
     
 ### Sobre a grade
   A estrutura da grade foi baseda nas [seguintes abaixo], dando um foco maior nas matérias que envolvem conceitos da computação e programação do que nas da área da Matemática. A grade ficará hospedada em uma página Notion, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
-  [seguintes abaixo]: https://github.com/Bonekazz/Ciencia-da-Computacao-autodidata/blob/main/README.md#grades-utilizadas
+[seguintes abaixo]: https://github.com/Bonekazz/Ciencia-da-Computacao-autodidata/blob/main/README.md#grades-utilizadas
 #### Grades Utilizadas:
       [pendente::link das grades utilizadas]
 
