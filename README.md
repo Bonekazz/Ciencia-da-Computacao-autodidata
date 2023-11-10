@@ -23,7 +23,7 @@ ___
       [pendente::link das grades utilizadas]
 
 ### Sobre os períodos
-  Os períodos na grade não têm uma duração predeterminada; a escolha do tempo para cada um fica ao seu critério e/ou suas necessidades. Recomendamos, se possível, priorizar seu entendimento sobre os assuntos em vez do tempo para finalizá-los.
+  <summary>Os períodos na grade não têm uma duração predeterminada; a escolha do tempo para cada um fica ao seu critério e/ou suas necessidades. Recomendamos, se possível, priorizar seu entendimento sobre os assuntos em vez do tempo para finalizá-los.</summary>
 
     
 ### Sobre as matérias
