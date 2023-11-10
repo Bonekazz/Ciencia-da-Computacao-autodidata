@@ -1,4 +1,4 @@
-# Ciência da Computação autodidata
+# Ciência da Computação Autodidata
 
 > [!WARNING]
 > Repositório e Grade ainda em construção.
