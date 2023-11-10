@@ -1,6 +1,6 @@
-# Ciencia-da-Computacao-autodidata
+# Ciencia da Computacao-autodidata
 
-#(**AVISO**)
+#**AVISO**
   Repositório e Grade ainda em construção.
   
   Este repositório reúne várias playlists de palestras e aulas, organizadas por períodos e baseadas nas grades curriculares de cursos de Ciência da Computação de algumas universidades. O objetivo é ajudar programadores autodidatas a estudar e aprofundar seus conhecimentos na área, utilizando conteúdos acadêmicos de qualidade sem a necessidade de estarem vinculados a uma universidade e sem custos, apoiando a ideia de educação livre.
