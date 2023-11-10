@@ -17,7 +17,6 @@ ___
     
 ### Sobre a grade
   A estrutura da grade foi baseda nas [seguintes abaixo], dando um foco maior nas matérias que envolvem conceitos da computação e programação do que nas da área da Matemática. A grade ficará hospedada em uma página Notion, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
-[seguintes abaixo]: https://github.com/Bonekazz/Ciencia-da-Computacao-autodidata/blob/main/README.md#grades-utilizadas
 #### Grades Utilizadas:
       [pendente::link das grades utilizadas]
 
@@ -32,3 +31,4 @@ ___
 ### Sobre o conteúdo
   Quase todos os vídeos são disponibilizados por canais gringos *(en-us, English [United States])* de universidades, professores e/ou profissionais da área, se isso for um problema para você, veja isso como uma oportunidade de melhorar seu nível de inglês. Futuramente as playlists serão traduzidas pelos contribuidores deste repositório e disponilizadas aqui;
 
+[seguintes abaixo]: https://github.com/Bonekazz/Ciencia-da-Computacao-autodidata/blob/main/README.md#grades-utilizadas
