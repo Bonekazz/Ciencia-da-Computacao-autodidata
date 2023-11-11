@@ -31,12 +31,16 @@ ___
     
 ## Sobre as matérias
   Cada matéria terá sua descrição, requisitos, conteúdos e uma tag especificando se ela é opcional ou obrigatória. Algumas matérias possuem mais de uma playlist como conteúdo, cada uma com recomendações de qual escolher, a escolha fica ao seu critério.
-
 ___
 
 ## Sobre o conteúdo
   Quase todos os vídeos são disponibilizados por canais gringos *(en-us, English [United States])* de universidades, professores e/ou profissionais da área, se isso for um problema para você, veja isso como uma oportunidade de melhorar seu nível de inglês. 
   
   Futuramente as playlists serão traduzidas pelos contribuidores deste repositório e disponilizadas aqui;
+
+  As escolhas das playlists foram baseadas em:
+  - qualidade dos vídeos;
+  - se possui ou não materiais complementares e/ou exercícios;
+  - qualidade do conteúdo;
 
 [abaixo]: https://github.com/Bonekazz/Ciencia-da-Computacao-autodidata/blob/main/README.md#grades-utilizadas
