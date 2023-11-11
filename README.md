@@ -19,7 +19,7 @@ ___
 ___
    
 ## Sobre a grade
-  A estrutura da grade foi baseda nas seguintes [abaixo], dando um foco maior nas matérias que envolvem conceitos da computação e programação do que nas da área da Matemática. A grade ficará hospedada em uma página Notion, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
+  A estrutura da grade foi baseda nas seguintes [abaixo], dando um foco maior nas matérias que envolvem fundamentos da computação e programação do que nas da área da Matemática. A grade ficará hospedada em uma página Notion, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
   #### Grades Utilizadas:
       [pendente::link das grades utilizadas]
 
