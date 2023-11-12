@@ -14,7 +14,7 @@
 ___
 
 ## Grade:
-   -  Grade no Notion: https://bonekazz.notion.site/Grade-7c8f02fe826545b7975cfe6440b29233?pvs=4
+   -  Página Notion: https://bonekazz.notion.site/Grade-7c8f02fe826545b7975cfe6440b29233?pvs=4
 
 
 ___
