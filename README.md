@@ -19,7 +19,10 @@ ___
 ___
    
 ## Sobre a grade
-  A estrutura da grade foi baseda nas seguintes [abaixo], dando um foco maior nas matérias que envolvem fundamentos da computação e programação do que nas da área da Matemática. A grade ficará hospedada em uma página Notion, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
+  A estrutura da grade foi baseda nas seguintes [abaixo], dando um foco maior nas matérias que envolvem fundamentos da computação e programação do que nas da área da Matemática. 
+  
+  A grade ficará hospedada em uma página Notion e serve como um modelo para os seus estudos, fique à vontade para duplicá-la para a sua conta e modificá-la da forma que achar melhor;
+  
   #### Grades Utilizadas:
   - https://sigaa.ufrn.br/sigaa/link/public/curso/curriculo/510278493
   - https://www.vemprafam.com.br/wp-content/uploads/2019/09/CIENCIAS-DA-COMPUTACAO-MATRIZ-2023.1.pdf
@@ -28,6 +31,8 @@ ___
 
 ## Sobre os períodos
   Os períodos na grade não têm uma duração predeterminada; a escolha do tempo para cada um fica ao seu critério e/ou suas necessidades. Recomendamos, se possível, priorizar seu entendimento sobre os assuntos em vez do tempo para finalizá-los.
+  
+  Alguns dos períodos terão cards com o título "MATÉRIA OPCIONAL" informando que uma matéria opcional pode ser adicionada a este período;
 ___
     
 ## Sobre as matérias
