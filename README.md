@@ -9,8 +9,8 @@
 
   #### Para quem é este repositório?
   - quem já sabe programar e quer entender o que acontece por trás dos panos;
-  - quem quer começar na programação pelos fundamentos;
-  - quem está na faculdade e quer algum conteúdo auxiliar;
+  - quem quer começar na programação quer estudar junto os fundamentos;
+  - quem está na faculdade e precisa de conteúdos auxiliares;
 ___
 
 ## Grade:
